@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Balsamiq+Sans:wght@400;700&family=Chewy&display=swap");
+@font-face {
+  font-family: "dino";
+  src: url("/src/assets/font-family/LuckyDino.otf") format("opentype");
+}
+.f-dino {
+  font-family: dino;
+}
