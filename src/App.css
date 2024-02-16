@@ -6,3 +6,7 @@
 .f-dino {
   font-family: dino;
 }
+html,
+body {
+  scroll-behavior: smooth;
+}
